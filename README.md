@@ -11,7 +11,7 @@ It allows users to enter their Date of Birth and instantly calculate their exact
 
 👉 Click here to view the live project
 
-(Replace # with your GitHub Pages or Netlify live demo link)
+( https://roshinivankela.github.io/Age-Calculator/)
 
 ---
 
